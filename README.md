@@ -11,7 +11,9 @@
       <li>Phone:8769159340</li>
     </ul>
     <h2>Summary</h2>
-    <p>A brief summary of your qualifications and experience.</p>
+    <p>Bachelor of Technology in Electronics
+          And Communication
+    Techno India NJR Institute of Technology, Udaipur</p>
     <h2>Education</h2>
     <h3>Degree and Institution</h3>
     <p>Graduation Date</p>
