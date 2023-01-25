@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Resume</title>
+    My Resume
   </head>
   <body>
     <h1>Nikhil Solanki</h1>
